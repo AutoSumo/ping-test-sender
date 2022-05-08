@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "length-prefixed-stream": "^2.0.0",
     "randomstring": "^1.2.2",
     "serialport": "^10.4.0",
     "ws": "^8.6.0",
