@@ -1,0 +1,19 @@
+{
+  "name": "ping-test-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "randomstring": "^1.2.2",
+    "serialport": "^10.4.0",
+    "ws": "^8.6.0",
+    "zpad": "^0.5.0"
+  }
+}
